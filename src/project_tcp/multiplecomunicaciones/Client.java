@@ -12,7 +12,7 @@ public class Client {
 	public Client() throws Exception {
 		
 		Socket socket = new Socket("127.0.0.1",2020);
-		System.out.println("Successful connection to the server.");
+		System.out.println("Successfuldddd connection to the server.");
 		
 		// I/O streams
 		BufferedReader in_socket = new BufferedReader (new InputStreamReader (socket.getInputStream()));
