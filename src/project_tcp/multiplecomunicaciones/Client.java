@@ -26,7 +26,7 @@ public class Client {
 		
 		socket.close();
 		System.out.println("Socket closed.1");
-		System.out.println("Socket closedzzzz.1");
+		System.out.println("Socket closedzzzsssz.1");
 		
 		
 	}
